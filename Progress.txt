@@ -17,3 +17,5 @@ Note : Cleaning section and ScalingReal section done earlier but uploaded now wi
 We add extra cleaning process and rearrange the algorithms.
 12.12.2023
 ----------------------------------------------------------------------------------------------------
+We added algorithms and their evolution techniques as extra. We add extra scaling process and rearrange the algorithms.
+26.12.2023

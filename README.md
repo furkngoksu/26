@@ -6,7 +6,7 @@ This repository contains a comprehensive music recommendation system developed t
 
 ## Overview
 
-The music recommendation system is designed to provide users with tailored song suggestions by analyzing various music features and employing advanced clustering algorithms.                                                         |
+The music recommendation system is designed to provide users with tailored song suggestions by analyzing various music features and employing advanced clustering algorithms.                                                        
 
 ### Motivation
 
@@ -56,18 +56,12 @@ Building a Recommendation System based on some user input or preference
 Classification purposes based on audio features and available genres
 Any other application that you can think of. Feel free to discuss!
 
-## Dataset Link
-Certainly! You can include a section in your README file with a hyperlink to the dataset hosted on Kaggle. Here's an example of how you might add it:
 
 ---
 
 ## Dataset
 
 The dataset used in this project can be accessed from the [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) available on Kaggle. To use this dataset, download it from the provided link and place it in the project directory under the specified folder structure.
-
-
-
-
 
 
 ## Contribution
